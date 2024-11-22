@@ -6,10 +6,9 @@
 Write Up BossPlayersCTF:1 VM Vulnhub
 
 - [Download VM here](https://www.vulnhub.com/entry/bossplayersctf-1,375/)
-
-About Release
 ```
-    Name: bossplayersCTF: 1
+About Release
+    Name: bossplayersCTF:1
     Date release: 28 Sep 2019
     Author: Cuong Nguyen
     Series: bossplayersCTF
