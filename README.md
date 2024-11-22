@@ -1,5 +1,19 @@
+| Nama | NRP | Kelas |
+| :--: | :--: | :--: |
+| Nabiel Nizar Anwari | 5027231087 | Ethical Hacking dan Uji Keamanan Siber (A) |
+
 # WU_bossplayersCTF1-Vulnhub
 Write Up BossPlayersCTF:1 VM Vulnhub
+
+- [Download VM here](https://www.vulnhub.com/entry/bossplayersctf-1,375/)
+
+About Release
+```
+    Name: bossplayersCTF: 1
+    Date release: 28 Sep 2019
+    Author: Cuong Nguyen
+    Series: bossplayersCTF
+```
 
 ## Scanning Network dengan Netdiscover
 **Tujuan** : Menemukan IP address dari target di jaringan lokal.  
