@@ -15,7 +15,7 @@ About Release
 ```
 
 ## Scanning Network dengan Netdiscover
-**Tujuan** : Menemukan IP address dari target di jaringan lokal.  
+**Tujuan :** Menemukan IP address dari target di jaringan lokal.  
 
 `sudo netdiscover -r 192.168.87.0/24`
 
@@ -29,14 +29,14 @@ About Release
 ![github-small](https://github.com/bielnzar/WU_bossplayersCTF1-Vulnhub/blob/main/assets/nmap.png)
 
 ## Melihat Halaman Utama HTTP
-**Tujuan: **Mengeksplorasi halaman utama server HTTP.
+**Tujuan :** Mengeksplorasi halaman utama server HTTP.
 
 `http://192.168.87.4/`
 
 ![github-small](https://github.com/bielnzar/WU_bossplayersCTF1-Vulnhub/blob/main/assets/http.png)
 
 ## Memeriksa robots.txt file
-**Tujuan:** Mencari petunjuk tambahan.
+**Tujuan :** Mencari petunjuk tambahan.
 
 URL : `http://192.168.87.4/robots.txt`
 
